@@ -1,1 +1,1 @@
-# 3D Virtual Rubik
+# 3D Virtual Rubik's Cube
