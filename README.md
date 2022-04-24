@@ -8,7 +8,7 @@ Gesture_Controller:
 3.	Move cursor gesture: Just open your index finger and middle finger and close rest 3 fingers
 Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.
  
-4.	Left Click Gesture: Keep in moving sursor gesture and slowly close the index finger 
+4.	Left Click Gesture: Keep in moving cursor gesture and slowly close the index finger 
 Gesture for single left click
  
 5.	Right Click Gesture: Same like left click but now close the middle finger
